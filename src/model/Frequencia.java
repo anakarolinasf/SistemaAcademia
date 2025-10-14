@@ -7,6 +7,10 @@ public class Frequencia {
     private Date data;
     private boolean presenca;
 
+// TESTANDO GIT
+
+
+
     public Frequencia() {}
     public Frequencia(int idAluno, Date data, boolean presenca) {
         this.idAluno = idAluno;
