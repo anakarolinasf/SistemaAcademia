@@ -7,6 +7,9 @@ public class Aluno {
     private String cpf;
     private Date dataIngresso;
 
+    // teste comentario intellij
+
+
     public Aluno() {}
     public Aluno(String nome, String cpf, Date dataIngresso) {
         this.nome = nome;
